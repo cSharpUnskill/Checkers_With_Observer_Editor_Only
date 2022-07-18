@@ -1,0 +1,4 @@
+select_C3_
+turn_B4_
+select_F6_
+turn_E5_
